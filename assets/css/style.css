@@ -1,0 +1,105 @@
+#section1{
+    background-color: #212529;
+}
+
+#section2{
+    background-color: #212529;
+}
+
+#section3{
+    background-color: #212529;
+}
+
+#favi1{
+    background-color: #5bc0de;
+}
+
+#favi2{
+    background-color: #5bc0de;
+}
+
+#favi3{
+    background-color: #5bc0de;
+}
+
+#favi1 .fa-brands{
+    display: flex;
+    justify-content: center;
+}
+
+#favi2 .fa-solid{
+    display: flex;
+    justify-content: center;
+}
+
+#favi3 .fa-solid{
+    display: flex;
+    justify-content: center;
+}
+
+#quienesSomos{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#destacados{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#contacto{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+#section1{
+    padding-bottom: 50px;
+}
+
+#parrafo1{
+    text-align: justify;
+}
+
+#parrafo2{
+    text-align: justify;
+}
+
+#parrafo3{
+    text-align: justify;
+}
+
+.card-body{
+    background-color: #5bc0de;
+    text-align: justify;
+    color: white;
+    height: auto;
+}
+
+.card img{
+    height: 150px;
+ 
+}
+#section2{
+    padding-bottom: 50px
+}
+
+#section3{
+    padding-bottom: 50px;
+}
+
+footer{
+    height: 50px;
+}
+
+footer h3{
+    margin-left: 50px;
+}
+
+#ff{
+    margin-left: 150px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
